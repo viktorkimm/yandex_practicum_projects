@@ -3,7 +3,7 @@
 
 **Выпускные проекты:**
 - [Выпускной проект по играм:](https://github.com/viktorkimm/yandex_practicum_projects/blob/main/final_project_games.ipynb) Формирование модели монетизации мобильной игры «Космические братья».
-- [Выпускной проект по A/B тестированию:](https://github.com/viktorkimm/yandex_practicum_projects/blob/main/final_project_games.ipynb) Оценка результатов изменений, связанных с внедрением улучшенной рекомендательной системы интернет-магазина.
+- [Выпускной проект по A/B тестированию:](https://github.com/viktorkimm/yandex_practicum_projects/blob/main/final_project_ab_test.ipynb) Оценка результатов изменений, связанных с внедрением улучшенной рекомендательной системы интернет-магазина.
 
 **Выполненные проекты по спринтам:**
 - [Проект 1.](https://github.com/viktorkimm/yandex_practicum_projects/blob/main/project_1_tariff_research.ipynb) Определение перспективного тарифа для телеком-компании.
